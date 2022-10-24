@@ -8,20 +8,32 @@
 <Table border=1px>
 <Thead>
 <Th>peach</th>
+<H#>
 <Th>grade12</th>
 </Tr>
 </Thead>
+<Address> You are fucking.com>
 <Title> enrollment of college</tittle>
 <Body>
+<B> make a bold text</b>
+<Abbr> too break down my abbreviation>
 <Tbody>
 <Tr>
+<Strong>
+<Strike>
+<Img>
+</U>
+<A>you can reach us on www.@peach.com>
+<Br> too create a single a single line break</br>
 <Td> stephanie</td>
+<Div> thy meaning of my html documents>
 <Td>grade8</td>
 </Tr>
 <Tr>
 <Td> mine</td>
 <Td>grade7</td>
 </Tr>
+<Span>
 </Tbody>
 </Table>
 
